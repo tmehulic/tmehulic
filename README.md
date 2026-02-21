@@ -9,7 +9,7 @@ I work primarily within the **Java/Spring** ecosystems, while also being comfort
 Next to my daily activities at **[ZIRA](https://ziragroup.com)**, I dedicate my free time to expanding my engineering toolkit.
 
 ### 🔭 What I'm currently working on
-*   **Reactive Chat App:** I'm building a [chat application](https://github.com/tmehulic-chat-app) to master **WebSockets** and the reactive paradigm using **Spring WebFlux**.
+*   **Reactive Chat App:** I'm building a [chat application](https://github.com/tmehulic-chat-app) to experiment with **WebSockets** and the reactive paradigm using **Spring WebFlux**.
 
 ### 🌱 What I'm currently learning
 *   **Design Patterns:** I'm doing a deep dive into software design patterns, specifically focusing on their application within the **Spring Framework** to enhance my architectural skills.
